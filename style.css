@@ -1,0 +1,22 @@
+.icon {
+  background: -o-linear-gradient(
+    324deg,
+    rgb(212, 129, 59) 2%,
+    rgb(143, 91, 254)
+  );
+  background: linear-gradient(
+    0.35turn,
+    rgb(212, 129, 59) 2%,
+    rgb(143, 91, 254)
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 1em;
+}
+h1 {
+  font-family: "Merienda", cursive;
+  font-weight: bold;
+}
+.bg-color {
+  background: rgb(243, 233, 241);
+}
